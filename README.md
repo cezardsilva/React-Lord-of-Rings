@@ -1,12 +1,38 @@
-# React + Vite
+# Teste técnico de uma vaga de Programador Senior Front End
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Teste técnico de uma vaga de Programador Senior Front End na Austrália. Esse teste foi resolvido com React.
 
-Currently, two official plugins are available:
+## 🚀 Sobre o projeto
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🔹 Display Flex
+🔹 Display Grid
+🔹 Styled Components
+🔹 Consumo de API's
 
-## Expanding the ESLint configuration
+## 🛠 Tecnologias utilizadas
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **React** - Estrutura da interface
+- **CSS** - Estilos e responsividade
+- **HTML** - Estrutura da interface
+- **JavaScript** - Estrutura da interface
+
+
+## 💻 Como usar
+
+1. Clone este repositório:
+   ```sh
+   git clone (https://github.com/cezardsilva/React-Lord-of-Rings.git)
+
+2. No terminal execute:
+   ```sh
+   npm create vite@latest
+   cd my-project
+   npm install
+   npm run dev
+
+## Licença
+
+Este projeto está licenciado sob a [Licença MIT](LICENSE).
+
+---
+Desenvolvido por [Cezar D Silva](https://github.com/cezardsilva)
